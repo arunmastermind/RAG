@@ -68,3 +68,11 @@ Each notebook is structured as a self-contained tutorial with modular cells:
 2. **Component Definitions**
 3. **Demo Function**
 4. **Execution Cell**
+
+## 🌐 Acknowledgements & Credits
+
+This project and its Jupyter Notebook tutorials are inspired by and derived from the course work created by **[Paulo Dichone](https://github.com/pdichone)**.
+
+Special thanks to Paulo Dichone for the original course source repositories:
+- [production-course-main-code](https://github.com/pdichone/production-course-main-code)
+- [fcc-production-rag-part-6](https://github.com/pdichone/fcc-production-rag-part-6)
