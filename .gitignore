@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Cloned repos & temporary generator scripts
+repo1/
+repo2/
+generate_notebooks.py
+*.sqlite
+*.db
+
